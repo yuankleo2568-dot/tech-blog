@@ -9,18 +9,19 @@
     "juejin": {
       "name": "掘金",
       "url": "https://juejin.cn",
-      "active": false,
-      "username": "",
+      "active": true,
+      "username": "远虑多",
       "method": "browser",
-      "notes": "需先注册账号"
+      "notes": "已注册"
     },
     "csdn": {
       "name": "CSDN",
       "url": "https://www.csdn.net",
-      "active": false,
-      "username": "",
+      "active": true,
+      "username": "weixin_43877829",
+      "nickname": "不让AI看隐私",
       "method": "browser",
-      "notes": "需先注册账号"
+      "notes": "已注册"
     },
     "zhihu": {
       "name": "知乎",
