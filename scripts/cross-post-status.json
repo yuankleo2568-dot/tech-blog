@@ -64,5 +64,14 @@
       "notes": "需先注册账号"
     }
   },
-  "articles": []
+  "articles": [
+    {
+      "id": "2026-05-11-fhe",
+      "title": "医院想用 AI，又怕数据裸奔？全同态加密解决方案",
+      "github": "https://github.com/yuankleo2568-dot/tech-blog/blob/master/articles/2026/2026-05-11-fully-homomorphic-encryption.md",
+      "juejin": "https://juejin.cn/post/7638634738633375759",
+      "csdn": "https://blog.csdn.net/weixin_43877829/article/details/161023787",
+      "date": "2026-05-11"
+    }
+  ]
 }

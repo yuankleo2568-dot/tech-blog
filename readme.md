@@ -16,9 +16,9 @@
 
 | 平台 | 状态 |
 |------|------|
-| GitHub | ✅ 主站 |
-| 掘金 | ⏳ 即将开通 |
-| CSDN | ⏳ 即将开通 |
+| GitHub | ✅ [第一篇已发](https://github.com/yuankleo2568-dot/tech-blog) |
+| 掘金 | ✅ [第一篇已发](https://juejin.cn/post/7638634738633375759) |
+| CSDN | ✅ [第一篇已发](https://blog.csdn.net/weixin_43877829/article/details/161023787) |
 | 知乎 | ⏳ 即将开通 |
 | SegmentFault | ⏳ 即将开通 |
 | 博客园 | ⏳ 即将开通 |
