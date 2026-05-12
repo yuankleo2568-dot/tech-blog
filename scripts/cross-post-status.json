@@ -1,0 +1,67 @@
+{
+  "platforms": {
+    "github": {
+      "name": "GitHub",
+      "url": "https://github.com/yuankleo2568-dot/tech-blog",
+      "active": true,
+      "method": "git-push"
+    },
+    "juejin": {
+      "name": "掘金",
+      "url": "https://juejin.cn",
+      "active": false,
+      "username": "",
+      "method": "browser",
+      "notes": "需先注册账号"
+    },
+    "csdn": {
+      "name": "CSDN",
+      "url": "https://www.csdn.net",
+      "active": false,
+      "username": "",
+      "method": "browser",
+      "notes": "需先注册账号"
+    },
+    "zhihu": {
+      "name": "知乎",
+      "url": "https://www.zhihu.com",
+      "active": false,
+      "username": "",
+      "method": "browser",
+      "notes": "需先注册账号"
+    },
+    "segmentfault": {
+      "name": "SegmentFault",
+      "url": "https://segmentfault.com",
+      "active": false,
+      "username": "",
+      "method": "browser",
+      "notes": "需先注册账号"
+    },
+    "cnblogs": {
+      "name": "博客园",
+      "url": "https://www.cnblogs.com",
+      "active": false,
+      "username": "",
+      "method": "browser",
+      "notes": "需先注册账号"
+    },
+    "devto": {
+      "name": "Dev.to",
+      "url": "https://dev.to",
+      "active": false,
+      "username": "",
+      "method": "api",
+      "notes": "需 API Key"
+    },
+    "tencent-cloud": {
+      "name": "腾讯云开发者社区",
+      "url": "https://cloud.tencent.com/developer",
+      "active": false,
+      "username": "",
+      "method": "browser",
+      "notes": "需先注册账号"
+    }
+  },
+  "articles": []
+}
